@@ -22,7 +22,7 @@
 
 Selamat datang di dokumentasi penggunaan website [okoce.net](okoce.net)! Dokumen ini akan membantu Anda memahami cara menggunakan platform kami.
 
-<a id="pendahuluan"></a>
+<a id="mengakses-okoce"></a>
 
 ## 2. Mengakses okoce.net
 
