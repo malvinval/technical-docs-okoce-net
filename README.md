@@ -62,10 +62,9 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website OK OCE
 
 <a name="mengakses-okoce"></a>
 
-
-
 ## 2. Mengakses OKOCE.NET
 
-	1. Buka browser web pilihan Anda (contoh: Chrome, Firefox, atau Safari) di komputer atau perangkat seluler Anda
-	1. Ketik alamat website [okoce.net](okoce.net) dalam input pencarian
-	1. Tekan ENTER atau klik tombol Cari. 
+1. Buka browser web pilihan Anda (contoh: Chrome, Firefox, atau Safari) di komputer atau perangkat seluler Anda
+2. Ketik alamat website [okoce.net](okoce.net) dalam input pencarian
+3. Tekan ENTER atau klik tombol Cari.
+
