@@ -17,6 +17,14 @@
 4. [Kontak](#kontak-okoce)
 
 <a id="pendahuluan"></a>
+
 ## 1. Pendahuluan
 
 Selamat datang di dokumentasi penggunaan website [okoce.net](okoce.net)! Dokumen ini akan membantu Anda memahami cara menggunakan platform kami.
+
+<a id="pendahuluan"></a>
+
+## 2. Mengakses okoce.net
+
+1. Buka browser web pilihan Anda (contoh: Chrome, Firefox, atau Safari) di komputer atau perangkat seluler Anda.
+2. Masukkan alamat [okoce.net](okoce.net) pada input pencarian, lalu tekan ENTER atau klik Cari.
