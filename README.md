@@ -1,10 +1,16 @@
 # Dokumentasi Penggunaan Website OKOCE.NET
 
+
+
+
 ## Daftar Isi
 
 1. [Pendahuluan](#pendahuluan)
+
 2. [Mengakses okoce.net](#mengakses-okoce)
+
 3. [Menu](#menu-okoce)
+
    - [Tentang Kami](#tentang-kami-okoce)
       - [Sejarah](#sejarah-okoce)
       - [Visi dan Misi](#visi-misi-okoce)
@@ -39,4 +45,23 @@
       - [Mastermentor](#mastermentor-okoce)
       - [Studentpreneur](#studentpreneur-okoce)
       - [Digitalisasi](#digitalisasi-okoce)
+
 4. [Kontak](#kontak-okoce)
+
+   
+
+<a name="pendahuluan"></a>
+
+## 1. Pendahuluan
+
+Selamat datang di dokumentasi penggunaan website [okoce.net](okoce.net)!
+
+Dokumen ini akan membantu Anda memahami cara menggunakan platform website OK OCE Indonesia.
+
+<a name="mengakses-okoce"></a>
+
+## 2. Mengakses OKOCE.NET
+
+	1. Buka browser web pilihan Anda (contoh: Chrome, Firefox, atau Safari) di komputer atau perangkat seluler Anda
+	1. Ketik alamat website [okoce.net](okoce.net) dalam input pencarian
+	1. Tekan ENTER atau klik tombol Cari. 
