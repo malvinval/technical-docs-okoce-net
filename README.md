@@ -111,3 +111,43 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website OK OCE
 [https://okoce.net/visi-dan-misi/](https://okoce.net/visi-dan-misi/)
 
 - Pada halaman ini dijelaskan visi serta misi dari OK OCE Indonesia.
+
+<a name="nilai-inti-okoce"></a>
+
+#### - Nilai Inti
+
+[https://okoce.net/nilai-inti/](https://okoce.net/nilai-inti/)
+
+- Pada halaman ini dijabarkan nilai inti OK OCE Indonesia, yang mana adalah nilai yang menjadi panduan tindakan dan keputusan dari OK OCE Indonesia.
+
+<a name="struktur-pengurus-okoce"></a>
+
+#### - Struktur Pengurus
+
+[https://okoce.net/struktur-pengurus/](https://okoce.net/struktur-pengurus/)
+
+- Pada halaman ini dijabarkan struktur kepengurusan inti OK OCE Indonesia, mulai dari founder, direktorat hingga eksekutif OK OCE.
+
+<a name="7-top-okoce"></a>
+
+#### - 7 TOP
+
+[https://okoce.net/7-top/](https://okoce.net/7-top/)
+
+- Pada halaman ini terdapat grafik yang menyebutkan 7 Tahapan OK OCE Prima atau 7 TOP, sebagai perjalanan keanggotaan UMKM di OK OCE Indonesia.
+
+<a name="logo-okoce"></a>
+
+#### - Logo
+
+[https://okoce.net/logo/](https://okoce.net/logo/)
+
+- Pada halaman ini disediakan logo OK OCE Indonesia, beserta logo program-program OK OCE lainnya dengan kualitas tinggi.
+
+<a name="kontak-okoce"></a>
+
+#### - Kontak
+
+(Halaman belum tersedia)
+
+- Pada halaman ini disediakan kontak seperti alamat, nomor telepon, email, sosial media dan lainnya yang mempermudah anda untuk dapat berhubungan dengan OK OCE Indonesia.
