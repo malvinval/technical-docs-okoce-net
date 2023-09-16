@@ -342,4 +342,4 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website OK OCE
 ### Masuk
 
 - Menu "Masuk" adalah menu untuk anda masuk ke dashboard keanggotaan OK OCE Indonesia.
-- Anda dapat melihat dokumentasi dashboard tersebut [disini.](www.google.com)
+- Anda dapat melihat dokumentasi dashboard tersebut [disini.](https://www.google.com)
