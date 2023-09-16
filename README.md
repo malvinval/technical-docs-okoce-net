@@ -47,6 +47,7 @@
       - [Mastermentor](#mastermentor-okoce)
       - [Studentpreneur](#studentpreneur-okoce)
       - [Digitalisasi](#digitalisasi-okoce)
+   - [Masuk](#login-okoce)
 
 5. [Kontak](#kontak-okoce)
 
@@ -185,7 +186,7 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website OK OCE
 
 (Halaman belum tersedia)
 
-- Pada halaman ini terdapat dokumentasi acara ataupun kegiatan yang dilakukan oleh OK OCE Indonesia dengan bentuk video yang mudah dipahami oleh anda.
+- Pada halaman ini anda dapat melihat dokumentasi acara ataupun kegiatan yang dilakukan oleh OK OCE Indonesia dengan bentuk video yang mudah dipahami oleh anda.
 
 <a name="etalase-okoce"></a>
 
@@ -211,3 +212,134 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website OK OCE
 
 - Pada halaman ini anda dapat membeli e-meterai atau meterai elektronik untuk keperluan dokumen-dokumen digital anda.
 - E-meterai merupakan salah satu jenis meterai dalam format elektronik yang memiliki ciri khusus dan mengandung unsur pengaman yang dikeluarkan oleh pemerintah republik indonesia, yang digunakan untuk membayar pajak atas dokumen elektronik.
+
+<a name="peluang-okoce"></a>
+
+### Peluang
+
+- Menu "Peluang" merupakan jendela anda untuk melihat apa saja yang dapat anda lakukan jika menjadi bagian dari OK OCE Indonesia.
+- Selain itu, pada menu ini anda juga dapat melihat mitra-mitra yang bekerjasama dengan kami serta berdonasi.
+
+<a name="peluang-usaha-okoce"></a>
+
+#### - Peluang Usaha
+
+(Halaman belum tersedia)
+
+<a name="peluang-usaha-okoce"></a>
+
+#### - Peluang Kerja
+
+(Halaman belum tersedia)
+
+<a name="magang-okoce"></a>
+
+#### - Magang
+
+(Halaman belum tersedia)
+
+<a name="penggerak-okoce"></a>
+
+#### - Penggerak
+
+[https://okoce.net/penggerak/](https://okoce.net/penggerak/)
+
+- Di halaman ini anda dapat melihat dan mengetahui semua penggerak OK OCE Indonesia.
+- Penggerak berperan sebagai layer kedua dalam bangunan gerakan sosial penciptaan lapangan kerja berbasis wirausaha tersebar diberbagai daerah di seluruh Indonesia.
+
+<a name="trainer-okoce"></a>
+
+#### - Trainer
+
+(Halaman belum tersedia)
+
+<a name="mentor-okoce"></a>
+
+#### - Mentor
+
+(Halaman belum tersedia)
+
+<a name="mitra kerjasama-okoce"></a>
+
+#### - Mitra Kerjasama
+
+(Halaman belum tersedia)
+
+- Dalam halaman ini, anda dapat melihat mira-mitra yang bekerjasama dengan OK OCE dari seluruh Indonesia. Kerjasama dengan mitra-mitra tersebut sangat penting bagi OK OCE dan bagi kemajuan UMKM Indonesia secara umum.
+
+<a name="donasi-okoce"></a>
+
+#### - Donasi
+
+[https://okoce.net/donasi/](https://okoce.net/donasi/)
+
+- Dalam halaman ini anda dapat berdonasi untuk pengembangan UMKM Indonesia melewati kami.
+- Anda dapat berdonasi sesuai keinginan anda. Di halaman ini terdapat donasi umum, donasi wakaf dan donasi kemanusiaan.
+
+<a name="program-okoce"></a>
+
+### Program
+
+- Menu "Program" berisi tentang program-program utama kami yang bisa anda lihat.
+- Anda juga dapat mempelajari lebih lanjut program-program kami.
+
+<a name="brand-lokal-okoce"></a>
+
+#### - Peluang Usaha
+
+(Halaman belum tersedia)
+
+<a name="modal-berkah-okoce"></a>
+
+#### - Modal Berkah
+
+(Halaman belum tersedia)
+
+<a name="mak-kece-okoce"></a>
+
+#### - Mak Kece
+
+(Halaman belum tersedia)
+
+<a name="masjid-pemberdaya-okoce"></a>
+
+#### - Masjid Pemberdaya
+
+(Halaman belum tersedia)
+
+<a name="desapreneur-okoce"></a>
+
+#### - Desapreneur
+
+(Halaman belum tersedia)
+
+<a name="the-mentor-okoce"></a>
+
+#### - The Mentor
+
+(Halaman belum tersedia)
+
+<a name="mastermentor-okoce"></a>
+
+#### - Mastermentor
+
+(Halaman belum tersedia)
+
+<a name="studentpreneur-okoce"></a>
+
+#### - Studentpreneur
+
+(Halaman belum tersedia)
+
+<a name="digitalisasi-okoce"></a>
+
+#### - Digitalisasi
+
+(Halaman belum tersedia)
+
+<a name="program-okoce"></a>
+
+### Masuk
+
+- Menu "Masuk" adalah menu untuk anda masuk ke dashboard keanggotaan OK OCE Indonesia.
+- Anda dapat melihat dokumentasi dashboard tersebut [disini.](about:blank)
