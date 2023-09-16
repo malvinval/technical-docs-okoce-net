@@ -151,3 +151,34 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website OK OCE
 (Halaman belum tersedia)
 
 - Pada halaman ini disediakan kontak seperti alamat, nomor telepon, email, sosial media dan lainnya yang mempermudah anda untuk dapat berhubungan dengan OK OCE Indonesia.
+
+<a name="media-okoce"></a>
+
+### Media
+
+- Menu "Media" Merupakan saluran utama dari OK OCE Indonesia untuk memperkenalkan dan mengkomunikasikan kegiatan-kegiatan yang dilakukan OK OCE Indonesia ke masyarakat, baik berupa foto, video, berita maupun sosialisasi event.
+
+<a name="berita-okoce"></a>
+
+#### - Berita
+
+[https://okoce.net/berita/](https://okoce.net/berita/)
+
+- Pada halaman ini terdapat berita-berita mulai dari kegiatan yang dilakukan OK OCE Indonesia, mengenai kemajuan UMKM, dan hal-hal lainnya.
+
+<a name="event-okoce"></a>
+
+#### - Berita
+
+[https://event.okoce.net/](https://event.okoce.net/)
+
+- Pada halaman ini terdapat sosialisasi event yang diadakan oleh OK OCE Indonesia ataupun mitra-mitra lain yang bekerjasama.
+- Di halaman ini juga anda dapat mendaftarkan diri untuk mengikuti salah satu event yang terdapat pada halaman tersebut.
+
+<a name="video-okoce"></a>
+
+#### - Video
+
+(Halaman belum tersedia)
+
+- Pada halaman ini terdapat dokumentasi acara ataupun kegiatan yang dilakukan oleh OK OCE Indonesia dengan bentuk video yang mudah dipahami oleh masyarakat.
