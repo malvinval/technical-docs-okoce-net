@@ -111,6 +111,7 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website OK OCE
 [https://okoce.net/visi-dan-misi/](https://okoce.net/visi-dan-misi/)
 
 - Pada halaman ini dijelaskan visi serta misi dari OK OCE Indonesia.
+- Dengan visi OK OCE Indonesia sebagai panduan utama, misi kami adalah langkah-langkah yang kami ambil untuk mengubah visi tersebut menjadi kenyataan. Kami yakin bahwa dengan fokus pada visi dan misi kami, kami dapat mencapai tujuan besar dan memberikan dampak positif yang berkelanjutan.
 
 <a name="nilai-inti-okoce"></a>
 
@@ -119,6 +120,7 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website OK OCE
 [https://okoce.net/nilai-inti/](https://okoce.net/nilai-inti/)
 
 - Pada halaman ini dijabarkan nilai inti OK OCE Indonesia, yang mana adalah nilai yang menjadi panduan tindakan dan keputusan dari OK OCE Indonesia.
+- Nilai-nilai inti OK OCE Indonesia adalah landasan yang memandu tindakan dan keputusan sehari-hari. Nilai-nilai ini mencerminkan identitas OK OCE dan tekad kami untuk memberikan nilai unggul kepada semua pihak yang terlibat dengan kami.
 
 <a name="struktur-pengurus-okoce"></a>
 
@@ -127,6 +129,7 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website OK OCE
 [https://okoce.net/struktur-pengurus/](https://okoce.net/struktur-pengurus/)
 
 - Pada halaman ini dijabarkan struktur kepengurusan inti OK OCE Indonesia, mulai dari founder, direktorat hingga eksekutif OK OCE.
+- OK OCE Indonesia bangga memiliki pengurus yang berkomitmen. Kami percaya bahwa kepemimpinan yang kuat, kolaborasi yang erat, dan fokus pada inovasi adalah pilar-pilar yang membentuk struktur kepengurusan kami.
 
 <a name="7-top-okoce"></a>
 
@@ -157,6 +160,7 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website OK OCE
 ### Media
 
 - Menu "Media" Merupakan saluran utama dari OK OCE Indonesia untuk memperkenalkan dan mengkomunikasikan kegiatan-kegiatan yang dilakukan OK OCE Indonesia ke masyarakat, baik berupa foto, video, berita maupun sosialisasi event.
+- Dalam menu ini anda dapat melihat kegiatan kami baik yang telah lalu ataupun yang akan datang.
 
 <a name="berita-okoce"></a>
 
@@ -173,7 +177,7 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website OK OCE
 [https://event.okoce.net/](https://event.okoce.net/)
 
 - Pada halaman ini terdapat sosialisasi event yang diadakan oleh OK OCE Indonesia ataupun mitra-mitra lain yang bekerjasama.
-- Di halaman ini juga anda dapat mendaftarkan diri untuk mengikuti salah satu event yang terdapat pada halaman tersebut.
+- Di halaman ini juga anda dapat mendaftarkan diri untuk mengikuti event-event yang terdapat pada halaman tersebut.
 
 <a name="video-okoce"></a>
 
@@ -181,4 +185,29 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website OK OCE
 
 (Halaman belum tersedia)
 
-- Pada halaman ini terdapat dokumentasi acara ataupun kegiatan yang dilakukan oleh OK OCE Indonesia dengan bentuk video yang mudah dipahami oleh masyarakat.
+- Pada halaman ini terdapat dokumentasi acara ataupun kegiatan yang dilakukan oleh OK OCE Indonesia dengan bentuk video yang mudah dipahami oleh anda.
+
+<a name="etalase-okoce"></a>
+
+### Etalase
+
+- Menu "Etalase" merupakan salah satu bentuk usaha OK OCE Indonesia.
+- Pada menu ini, anda dapat menemukan dan berbelanja beberapa barang yang dijual oleh OK OCE Indonesia, seperti merchandise dan e-meterai.
+
+<a name="merchandise-okoce"></a>
+
+#### - Merchandise
+
+[https://okoce.net/merchandise/](https://okoce.net/merchandise/)
+
+- Pada halaman ini anda dapat menemukan beberapa barang merchandise OK OCE Indonesia, seperti t-shirt, hoodie, topi, dan lain-lain.
+- Pada halaman ini juga anda dapat langsung memesan produk-produk tersebut dari tombol yang tersedia pada masing-masing produk.
+
+<a name="e-meterai-okoce"></a>
+
+#### - E-Meterai
+
+[https://okoce.net/e-meterai/](https://okoce.net/e-meterai/)
+
+- Pada halaman ini anda dapat membeli e-meterai atau meterai elektronik untuk keperluan dokumen-dokumen digital anda.
+- E-meterai merupakan salah satu jenis meterai dalam format elektronik yang memiliki ciri khusus dan mengandung unsur pengaman yang dikeluarkan oleh pemerintah republik indonesia, yang digunakan untuk membayar pajak atas dokumen elektronik.
