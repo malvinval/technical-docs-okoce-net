@@ -11,16 +11,15 @@
 
 3. [Halaman Utama](#laman-utama)
 
-4. [Daftar](#daftar-okoce)
+   - [Daftar](#daftar-okoce)
+   - [Masuk](#login-okoce)
 
-5. [Masuk](#login-okoce)
-
-6. [Dashboard OK OCE](#dashboard-okoce)
+4. [Dashboard OK OCE](#dashboard-okoce)
 
    - [Dashboard Utama](#dashboard-utama-okoce)
       - [Sejarah](#sejarah-okoce)
 
-7. [Kontak](#kontak-okoce)
+5. [Kontak](#kontak-okoce)
 
    
 
@@ -63,7 +62,7 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website dari d
 
 <a name="daftar-okoce"></a>
 
-## 3. Daftar
+### Daftar
 
 [ecsys.okoce.net/register](ecsys.okoce.net/register)
 
@@ -79,7 +78,7 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website dari d
 
 <a name="login-okoce"></a>
 
-## 4. Masuk
+### Masuk
 
 [ecsys.okoce.net](ecsys.okoce.net)
 
@@ -88,7 +87,7 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website dari d
 
 <a name="dashboard-okoce"></a>
 
-## 5. Dashboard OK OCE
+## 4. Dashboard OK OCE
 
 [ecsys.okoce.net/dashboard](ecsys.okoce.net/dashboard)
 
