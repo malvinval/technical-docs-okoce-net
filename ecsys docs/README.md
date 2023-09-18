@@ -19,6 +19,7 @@
    - [Dashboard Utama](#dashboard-utama)
    - [Penggerak](#penggerak)
       - [List Penggerak](#list-penggerak)
+        - [Bergabung ke Penggerak](#gabung-penggerak)
       - [Penggerak Saya](#penggerak-saya)
    - [Usaha](#usaha)
    - [Event](#event)
@@ -113,6 +114,44 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website dari d
 
 ## 4. Dashboard OK OCE
 
+Jika anda telah masuk, maka anda akan dialihkan ke halaman dashboard utama OK OCE, yang memiliki tampilan sebagai berikut:
+
+![dashboard](/dashboard-utama.png)
+
+<a name="dashboard-utama"></a>
+
+### Dashboard Utama
+
 [ecsys.okoce.net/dashboard](ecsys.okoce.net/dashboard)
 
-- Halaman ini menampilkan beberapa hal utama keanggotaan anda, seperti member ID, profil usaha dan penggerak yang anda ikuti.
+- Seperti pada gambar diatas, halaman ini menampilkan beberapa hal utama keanggotaan anda, seperti member ID, profil usaha dan penggerak yang anda ikuti.
+
+<a name="penggerak"></a>
+
+### Penggerak
+
+- Penggerak OK OCE berperan sebagai layer kedua dalam bangunan gerakan sosial penciptaan lapangan kerja berbasis wirausaha tersebar diberbagai daerah di seluruh Indonesia.
+- Pada halaman ini, anda dapat mengatur penggerak anda, baik melihat penggerak yang ada maupun melihat penggerak yang anda ikuti.
+
+<a name="list-penggerak"></a>
+
+#### List Penggerak
+
+[ecsys.okoce.net/penggerak](ecsys.okoce.net/penggerak)
+
+- Pada halaman ini, anda dapat melihat daftar penggerak yang ada dari seluruh Indonesia.
+- Anda juga dapat mendaftarkan diri anda ke penggerak-penggerak tersebut.
+
+<a name="gabung-penggerak"></a>
+
+##### Bergabung ke Penggerak
+
+- Jika anda ingin bergabung dengan satu penggerak, anda dapat menekan tombol "Gabung" yang ada dalam pojok kanan bawah dari penggerak tersebut, seperti pada gambar berikut:
+- ![gabung-penggerak](/penggerak-item.png)
+- Setelah itu, anda akan diverifikasi dalam beberapa hari. Anda dapat kembali lagi untuk memastikan bahwa apakah anda sudah tergabung dalam penggerak tersebut.
+
+<a name="penggerak-saya"></a>
+
+#### Penggerak Saya
+
+- Jika anda telah bergabung dengan satu atau lebih penggerak yang ada, anda dapat melihatnya di halaman ini.
