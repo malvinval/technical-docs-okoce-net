@@ -94,12 +94,19 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website dari d
 
 - Jika anda belum mempunyai akun OK OCE Indonesia, anda dapat mendaftarkan diri anda dengan tahapan sebagai berikut:
   - Pada halaman utama, anda dapat menekan tombol "daftar" yang terdapat pada pojok kanan atas dari halaman tersebut.
+  
   - Anda akan dialihkan ke halaman berikut:
-  - ![regis-page](/register-page.png)
+  
+    ![regis-page](/register-page.png)
+  
   - Isi data diri anda dengan benar.
+  
   - Jika sudah terisi, tekan tombol daftar.
+  
   - Anda akan diminta untuk memverifikasi nomor handphone anda. Anda akan menerima pesan singkat melalui WhatsApp/SMS berisi kode OTP (*One-Time Password*) yang berupa angka-angka yang kemudian harus anda masukkan.
+  
   - Selesai! Selamat datang di OK OCE Indonesia.
+  
   - Anda kemudian akan diarahkan kembali ke [halaman utama](#laman-utama) untuk masuk dengan data yang telah anda daftarkan.
 
 <a name="login"></a>
@@ -205,3 +212,90 @@ Jika anda telah masuk, maka anda akan dialihkan ke halaman dashboard utama OK OC
 [ecsys.okoce.net/event-saya](ecsys.okoce.net/event-saya)
 
 - Jika anda telah mengikuti suatu event, maka detail event tersebut akan tampil di halaman ini.
+
+<a name="7-top"></a>
+
+### 7 TOP
+
+- -
+
+<a name="ajukan-diri"></a>
+
+### Ajukan Diri
+
+- Pada menu ini, anda dapat mendaftarkan dan mengajukan diri anda sebagai pendamping maupun trainer dari UMKM anggota OK OCE Indonesia.
+
+<a name="pendamping"></a>
+
+#### Pendamping
+
+[https://ecsys.okoce.net/pendamping/pendaftaran](https://ecsys.okoce.net/pendamping/pendaftaran)
+
+- Pendamping merupakan individu yang akan mendampingi UMKM anggota OK OCE Indonesia.
+- Untuk mendaftar, anda harus memenuhi syarat-syarat yang ada terlebih dahulu.
+- Jika anda telah memenuhi syarat untuk menjadi pendamping, anda cukup mengisi kolom-kolom yang ada dengan data yang sesuai, lalu tekan tombol "Submit" pada bagian bawah.
+- Pendaftaran anda akan dikaji selama beberapa hari sebelum dapat disetujui.
+
+<a name="trainer"></a>
+
+#### Trainer
+
+[https://ecsys.okoce.net/trainer/pendaftaran](https://ecsys.okoce.net/trainer/pendaftaran)
+
+- Trainer bertugas untuk membantu OK OCE Indonesia dalam pelatihan yang terdapat dalam 7 TOP.
+- Untuk mendaftar, anda harus memenuhi syarat-syarat yang ada terlebih dahulu.
+- Jika anda telah memenuhi syarat untuk menjadi trainer, anda cukup mengisi kolom-kolom yang ada dengan data yang sesuai, lalu tekan tombol "Submit" pada bagian bawah.
+- Pendaftaran anda akan dikaji selama beberapa hari sebelum dapat disetujui.
+
+<a name="profil"></a>
+
+## 5. Profil
+
+[https://ecsys.okoce.net/profile](https://ecsys.okoce.net/profile)
+
+Menu "Profil" adalah menu dimana anda dapat melihat, mengubah dan memperbarui data-data pribadi anda yang terdaftar di OK OCE Indonesia. Untuk dapat menuju menu ini, anda dapat menekan nama anda di pojok kanan atas pada halaman anda, dan kemudian menekan menu "My Profile".
+
+![profil](/profile.png)
+
+Yang mana kemudian anda akan diarahkan menuju menu halaman saya. Pada halaman ini, terdapat tiga menu utama, yaitu Informasi Pribadi, Perbarui Alamat dan Ganti Password.
+
+![menu-profil](/menu-profil.png)
+
+<a name="informasi-pribadi"></a>
+
+#### Informasi Pribadi
+
+[https://ecsys.okoce.net/profile?tab=personal](https://ecsys.okoce.net/profile?tab=personal)
+
+- Pada halaman ini, anda dapat melihat, mereview dan mengubah data diri anda.
+- Data diri yang terdapat di halaman ini termasuk Nama, Foto, Jenis Kelamin, Tempat/Tanggal lahir, Agama, Status Perkawinan, Pendidikan Terakhir, Pekerjaan, dan Info Kontak anda.
+- Anda dapat langsung mengubah hal-hal tersebut jika anda ingin mengubahnya.
+- Setelah mengubah, pastikan anda menekan tombol "Submit" di bagian bawah untuk menyimpan perubahan yang anda lakukan.
+
+<a name="perbarui-alamat"></a>
+
+#### Perbarui Alamat
+
+[https://ecsys.okoce.net/profile?tab=address](https://ecsys.okoce.net/profile?tab=address)
+
+- Pada halaman ini, anda dapat melihat, mereview dan mengubah alamat pribadi anda.
+- Anda juga dapat langsung mengubah alamat anda jika anda ingin mengubahnya.
+- Setelah mengubah, pastikan anda menekan tombol "Submit" di bagian bawah untuk menyimpan perubahan yang anda lakukan.
+
+<a name="ganti-password"></a>
+
+#### Ganti Password
+
+- Pada halaman ini, anda dapat mengubah password akun anda.
+- Untuk mengubah password, anda harus mengisi kolom-kolom yang ada, yaitu password lama, password baru dan konfirmasi password baru.
+- Setelah mengubah, pastikan anda menekan tombol "Submit" di bagian bawah untuk menyimpan perubahan yang anda lakukan.
+
+<a name="lain-lain"></a>
+
+## 6. Lain-lain
+
+<a name="keluar"></a>
+
+## 7. Keluar
+
+Jika anda ingin keluar (*Sign Out*) dari akun anda, anda dapat menekan nama anda di pojok kanan atas pada halaman anda, dan kemudian menekan menu "Sign Out". Anda akan diarahkan kembali ke website [okoce.net](https://okoce.net)
