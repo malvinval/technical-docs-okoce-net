@@ -7,16 +7,16 @@
 
 1. [Pendahuluan](#pendahuluan)
 
-2. [Mengakses dashboard okoce.net](#akses-okoce)
+2. [Mengakses dashboard okoce.net](#akses)
 
 3. [Halaman Utama](#laman-utama)
 
-   - [Daftar](#daftar-okoce)
-   - [Masuk](#login-okoce)
+   - [Daftar](#daftar)
+   - [Masuk](#login)
 
-4. [Dashboard OK OCE](#dashboard-okoce)
+4. [Dashboard OK OCE](#dashboard)
 
-   - [Dashboard Utama](#dashboard-utama-okoce)
+   - [Dashboard Utama](#dashboard-utama)
    - [Penggerak](#penggerak)
       - [List Penggerak](#list-penggerak)
       - [Penggerak Saya](#penggerak-saya)
@@ -35,7 +35,7 @@
       - [Pendamping](#pendamping)
       - [Trainer](#trainer)
 
-5. [Profil](#profil-okoce)
+5. [Profil](#profil)
 
    - [Informasi Pribadi](#informasi-pribadi)
    - [Perbarui Alamat](#perbarui-alamat)
@@ -59,7 +59,7 @@ Website ini merupakan dashboard untuk anda baik para anggota dari OK OCE Indones
 
 Dokumen ini akan membantu Anda memahami cara menggunakan platform website dari dashboard OK OCE Indonesia tersebut.
 
-<a name="akses-okoce"></a>
+<a name="akses"></a>
 
 ## 2. Mengakses OKOCE.NET
 
@@ -84,7 +84,7 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website dari d
 
 ![login-page](/login-page.png)
 
-<a name="daftar-okoce"></a>
+<a name="daftar"></a>
 
 ### Daftar
 
@@ -100,16 +100,16 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website dari d
   - Selesai! Selamat datang di OK OCE Indonesia.
   - Anda kemudian akan diarahkan kembali ke [halaman utama](#laman-utama) untuk masuk dengan data yang telah anda daftarkan.
 
-<a name="login-okoce"></a>
+<a name="login"></a>
 
 ### Masuk
 
 [ecsys.okoce.net](ecsys.okoce.net)
 
 - Jika anda telah mempunyai akun OK OCE Indonesia, anda dapat langsung mengisi data anda yaitu e-mail/nomor handphone dan password pada halaman utama dan menekan tombol "Masuk".
-- Anda akan langsung diarahkan ke [dashboard anda](#dashboard-okoce).
+- Anda akan langsung diarahkan ke [dashboard anda](#dashboard).
 
-<a name="dashboard-okoce"></a>
+<a name="dashboard"></a>
 
 ## 4. Dashboard OK OCE
 
