@@ -13,6 +13,7 @@
 
    - [Daftar](#daftar)
    - [Masuk](#login)
+   - [Lupa Password](#lupa-password)
 
 4. [Dashboard OK OCE](#dashboard)
 
@@ -117,6 +118,18 @@ Dokumen ini akan membantu Anda memahami cara menggunakan platform website dari d
 
 - Jika anda telah mempunyai akun OK OCE Indonesia, anda dapat langsung mengisi data anda yaitu e-mail/nomor handphone dan password pada halaman utama dan menekan tombol "Masuk".
 - Anda akan langsung diarahkan ke [dashboard anda](#dashboard).
+
+<a name="lupa-password"></a>
+
+### Lupa Password
+
+[https://ecsys.okoce.net/lupa-password](https://ecsys.okoce.net/lupa-password)
+
+- Jika anda lupa akan password anda, anda dapat menekan tombol "Lupa Password" yang terdapat pada bagian bawah kolom password.
+- Anda akan diarahkan ke halaman lupa password.
+- Di halaman ini, anda harus memasukkan nomor HP anda.
+- Kemudian, anda akan dikirimkan link untuk mengganti password anda melalui WhatsApp/SMS.
+- Ikuti petunjuk yang tertera pada pesan tersebut.
 
 <a name="dashboard"></a>
 
@@ -263,7 +276,7 @@ Yang mana kemudian anda akan diarahkan menuju menu halaman saya. Pada halaman in
 
 <a name="informasi-pribadi"></a>
 
-#### Informasi Pribadi
+### Informasi Pribadi
 
 [https://ecsys.okoce.net/profile?tab=personal](https://ecsys.okoce.net/profile?tab=personal)
 
@@ -274,7 +287,7 @@ Yang mana kemudian anda akan diarahkan menuju menu halaman saya. Pada halaman in
 
 <a name="perbarui-alamat"></a>
 
-#### Perbarui Alamat
+### Perbarui Alamat
 
 [https://ecsys.okoce.net/profile?tab=address](https://ecsys.okoce.net/profile?tab=address)
 
@@ -284,7 +297,7 @@ Yang mana kemudian anda akan diarahkan menuju menu halaman saya. Pada halaman in
 
 <a name="ganti-password"></a>
 
-#### Ganti Password
+### Ganti Password
 
 - Pada halaman ini, anda dapat mengubah password akun anda.
 - Untuk mengubah password, anda harus mengisi kolom-kolom yang ada, yaitu password lama, password baru dan konfirmasi password baru.
@@ -293,6 +306,12 @@ Yang mana kemudian anda akan diarahkan menuju menu halaman saya. Pada halaman in
 <a name="lain-lain"></a>
 
 ## 6. Lain-lain
+
+### Notifikasi
+
+Anda dapat melihat notifikasi untuk akun anda baik dari penggerak, pendampingan, usaha atau event dengan cara menekan tombol lonceng di samping nama anda yang terdapat di pojok kanan atas halaman.
+
+![notif](/notifikasi.png)
 
 <a name="keluar"></a>
 
