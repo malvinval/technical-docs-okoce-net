@@ -22,6 +22,7 @@
         - [Bergabung ke Penggerak](#gabung-penggerak)
       - [Penggerak Saya](#penggerak-saya)
    - [Usaha](#usaha)
+      - [Tambah Usaha](#tambah-usaha)
    - [Event](#event)
       - [List Event](#list-event)
       - [Event Saya](#event-saya)
@@ -154,4 +155,53 @@ Jika anda telah masuk, maka anda akan dialihkan ke halaman dashboard utama OK OC
 
 #### Penggerak Saya
 
+[ecsys.okoce.net/penggerak/me](ecsys.okoce.net/penggerak/me)
+
 - Jika anda telah bergabung dengan satu atau lebih penggerak yang ada, anda dapat melihatnya di halaman ini.
+
+<a name="usaha"></a>
+
+### Usaha
+
+[ecsys.okoce.net/katalog](ecsys.okoce.net/katalog)
+
+- Pada halaman ini, anda dapat melihat profil usaha jika anda telah mendaftarkannya.
+- Jika anda belum mendaftarkan usaha, anda dapat menekan tombol "Tambah Usaha" yang terdapat pada pojok kanan atas.
+- ![profil-usaha](/profil-usaha.png)
+
+<a name="tambah-usaha"></a>
+
+#### Tambah Usaha
+
+[ecsys.okoce.net/katalog/usaha](ecsys.okoce.net/katalog/usaha)
+
+- Jika anda telah menekan tombol "Tambah Usaha", anda akan dialihkan ke halaman pendafataran usaha.
+- ![tambah-usaha](/tambah-usaha.png)
+- Anda dapat mengisi kolom-kolom yang kosong dengan detail usaha anda.
+- Jika telah sesuai semua, anda dapat menekan tombol "Submit" di paling bawah *form*.
+- Selamat! Usaha anda telah terdaftar.
+
+<a name="event"></a>
+
+### Event
+
+- Event OK OCE diadakan sebagai salah satu usaha OK OCE Indonesia untuk membimbing dan membina baik UMKM maupun masyarakat umum mengenai berbagai macam tema.
+- Pada halaman ini, anda dapat melihat event-event yang ada, baik yang akan dilaksanakan maupun yang telah dilaksanakan, serta melihat event yang anda telah ikuti.
+
+<a name="list-event"></a>
+
+#### List Event
+
+[ecsys.okoce.net/event-peserta](ecsys.okoce.net/event-peserta)
+
+- Pada halaman ini, anda dapat melihat daftar event yang ada dari seluruh Indonesia, baik yang akan dilaksanakan maupun yang telah dilaksanakan.
+- Anda juga dapat melihat detail dari tiap event tersebut dengan menekan tombol "Show" pada event yang ingin anda lihat.
+- ![event-list](/event-list.png)
+
+<a name="event-saya"></a>
+
+#### Event Saya
+
+[ecsys.okoce.net/event-saya](ecsys.okoce.net/event-saya)
+
+- Jika anda telah mengikuti suatu event, maka detail event tersebut akan tampil di halaman ini.
