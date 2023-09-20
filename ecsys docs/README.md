@@ -1,8 +1,6 @@
 # Dokumentasi Penggunaan Dashboard OKOCE.NET (ecsys.okoce.net)
 
 
-
-
 ## Daftar Isi
 
 1. [Pendahuluan](#pendahuluan)
@@ -30,6 +28,7 @@
    - [7 TOP](#7-top)
       - [Pendaftaran](#pendaftaran)
       - [Pelatihan](#pelatihan)
+      - [Pendampingan](#pendampingan)
       - [Perizinan](#perizinan)
       - [Pemasaran](#pemasaran)
       - [Pelaporan](#pelaporan)
@@ -51,8 +50,6 @@
    
 
 <a name="pendahuluan"></a>
-
-
 
 ## 1. Pendahuluan
 
@@ -145,7 +142,7 @@ Jika anda telah masuk, maka anda akan dialihkan ke halaman dashboard utama OK OC
 
 [ecsys.okoce.net/dashboard](ecsys.okoce.net/dashboard)
 
-- Seperti pada gambar diatas, halaman ini menampilkan beberapa hal utama keanggotaan anda, seperti member ID, profil usaha dan penggerak yang anda ikuti.
+Seperti pada gambar diatas, halaman ini menampilkan beberapa hal utama keanggotaan anda, seperti member ID, profil usaha dan penggerak yang anda ikuti.
 
 <a name="penggerak"></a>
 
@@ -185,9 +182,11 @@ Jika anda telah masuk, maka anda akan dialihkan ke halaman dashboard utama OK OC
 
 [ecsys.okoce.net/katalog](ecsys.okoce.net/katalog)
 
-- Pada halaman ini, anda dapat melihat profil usaha jika anda telah mendaftarkannya.
+Pada halaman ini, anda dapat melihat profil usaha jika anda telah mendaftarkannya.
+
 - Jika anda belum mendaftarkan usaha, anda dapat menekan tombol "Tambah Usaha" yang terdapat pada pojok kanan atas.
-- ![profil-usaha](/profil-usaha.png)
+
+  ![profil-usaha](/profil-usaha.png)
 
 <a name="tambah-usaha"></a>
 
@@ -205,7 +204,8 @@ Jika anda telah masuk, maka anda akan dialihkan ke halaman dashboard utama OK OC
 
 ### Event
 
-- Event OK OCE diadakan sebagai salah satu usaha OK OCE Indonesia untuk membimbing dan membina baik UMKM maupun masyarakat umum mengenai berbagai macam tema.
+Event OK OCE diadakan sebagai salah satu usaha OK OCE Indonesia untuk membimbing dan membina baik UMKM maupun masyarakat umum mengenai berbagai macam tema.
+
 - Pada halaman ini, anda dapat melihat event-event yang ada, baik yang akan dilaksanakan maupun yang telah dilaksanakan, serta melihat event yang anda telah ikuti.
 
 <a name="list-event"></a>
@@ -230,13 +230,52 @@ Jika anda telah masuk, maka anda akan dialihkan ke halaman dashboard utama OK OC
 
 ### 7 TOP
 
-- -
+Pada menu 7 TOP ini, anda dapat melihat dan melanjutkan progres anda dalam tahapan 7 TOP OK OCE, dari mulai pendaftaran hingga permodalan. Untuk tahapan-tahapan tersebut, anda tidak perlu melakukannya berurutan, namun disarankan.
+
+<a name="pendaftaran"></a>
+
+#### Pendaftaran
+
+- Tahapan pertama dari 7 TOP adalah pendaftaran.
+- Pada halaman ini, anda dapat melihat profil anda dan dapat melengkapinya apabila belum lengkap.
+- Terdapat juga presentase dan *check list* dari profil anda yang akan membantu untuk melihat apa saja yang belum anda isi.
+- Jika anda telah mengikuti penggerak, maka penggerak tersebut akan tampil di halaman ini juga.
+
+<a name="pelatihan"></a>
+
+#### Pelatihan
+
+- Tahapan kedua dari 7 TOP adalah pelatihan, dimana para anggota dapat mempelajari modul-modul yang ada.
+- Pada halaman ini, anda dapat melihat modul-modul yang anda harus selesaikan untuk menyelesaikan tahap ini.
+- Terdapat juga presentase dan yang akan membantu untuk melihat pelatihan wajib apa saja yang belum anda ikuti, dan berapa pelatihan tambahan yang telah anda ikuti.
+
+<a name="pendampingan"></a>
+
+#### Pendampingan
+
+<a name="perizinan"></a>
+
+#### Perizinan
+
+<a name="pemasaran"></a>
+
+#### Pemasaran
+
+<a name="pelaporan"></a>
+
+#### Pelaporan
+
+<a name="permodalan"></a>
+
+#### Permodalan
+
+
 
 <a name="ajukan-diri"></a>
 
 ### Ajukan Diri
 
-- Pada menu ini, anda dapat mendaftarkan dan mengajukan diri anda sebagai pendamping maupun trainer dari UMKM anggota OK OCE Indonesia.
+Pada menu ini, anda dapat mendaftarkan dan mengajukan diri anda sebagai pendamping maupun trainer dari UMKM anggota OK OCE Indonesia.
 
 <a name="pendamping"></a>
 
